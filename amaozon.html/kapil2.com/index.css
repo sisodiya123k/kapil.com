@@ -1,0 +1,315 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  width: 36vh;
+  margin: 0;
+  height: 35vh;
+  padding: 0;
+}
+
+.home {
+  margin: 0;
+  padding: 20px;
+  /* width: 0; */
+  height: 2px;
+  border-radius: 2px;
+  border: 2px solid wheat;
+  /* margin: 1px; */
+  text-align: start;
+  justify-content: center;
+  /* display: flex; */
+  /* /* padding: 11px; */
+  height: 12px;
+  width: 120px;
+  margin: 12px;
+  text-align: center;
+  /* color: black; */
+  border-radius: 3vh;
+  background-color: red;
+}
+.home:hover {
+  background-color: yellow;
+}
+
+.hii {
+  background-color: red;
+  margin: 0;
+  padding: 40px;
+  height: 12px;
+  border-radius: 12px;
+  border: 2px solid wheat;
+  /* text-align: start; */
+  justify-content: center;
+  padding: 11px;
+  height: 12px;
+  width: 120px;
+  margin: 12px;
+  margin: 22vh;
+  padding: 19px;
+  /* text-align: center; */
+  /* background-color:; */
+  /* position: var(12px);
+   */
+  margin-left: 1vh;
+
+}
+.hii{
+  margin-top: -26vh;
+  margin-left: 15px;
+}
+.hii:hover {
+  /* color: yellow; */
+  background-color: yellow;
+}
+
+
+
+
+
+
+
+.page {
+  height: 29vh;
+  width: 140vh;
+  margin: 26vh;
+  padding: 105vh;
+  text-align: center;
+
+  margin: 74px;
+  /* padding: 39px */
+}
+/* .page{
+    margin: 1px;
+    width: 12vh;
+        height: 69vh;
+        width: 410vh;
+        margin: 12px;
+        padding: 9px;
+} */
+.page {
+  /* background-color: yellow; */
+  margin: -55px;
+  padding: 30vh;
+  height: 65vh;
+  width: 68vw;
+}
+.page img {
+  width: 184vh;
+  height: 68vh;
+  margin: -118px;
+  padding: 5px;
+
+  /* width: 287vh;
+    height: 80vh;
+    margin: -57px;
+    padding: 5px;
+} */
+  /* width: 250vh;
+    height: 50vh;
+    margin: -12px;
+    padding: 5px;
+} */
+  width: 207vh;
+  height: 59vh;
+  margin: -15px;
+  padding: 8px;
+}
+.page img {
+  margin-left: 120px;
+}
+.page img {
+  margin-top: -400vh;
+  margin-left: 84px;
+}
+.page img {
+  /* width: 420px;
+        height: 200px; */
+  width: 243vh;
+  height: 67v;
+}
+.card-item img {
+  margin: 9px;
+  padding: -10px;
+  height: 142px;
+  width: 80vh;
+}
+.card-item img {
+  height: 240px;
+  margin: 146px;
+  padding: 12vh;
+  margin: 12vh;
+}
+.card-item img {
+  height: 257px;
+  padding: 21vh;
+  margin: 19vh;
+}
+
+*/ .card {
+  /* background: red; */
+  /* height: 240px;
+        margin: 146px; */
+  text-align: center;
+  height: 12px;
+  width: 112vh;
+  margin: 12px;
+  font-size: x-large;
+}
+.card {
+  width: 102vh;
+  padding: 67vh;
+}
+.card {
+  text-align: center;
+  width: 135vh;
+  padding: -14vh;
+  height: 0;
+}
+.card {
+  margin: 193px;
+  padding: 5vh;
+}
+.card {
+  margin: 38vh;
+  text-align: left;
+  margin-left: -15px;
+  width: inherit;
+}
+.card {
+  width: 106vh;
+  margin: 197px;
+  padding: 15px;
+}
+/* .name {
+  /* margin-left: 445px; */
+
+.name {
+  /* margin: 36px; */
+  /* margin-top: 102px; */
+  /* padding-top: 22px; */
+  /* border-radius: px; */
+  text-align: center;
+  display: flex;
+  margin-left: 200px;
+  padding-left: 2px;
+  margin-top: -150px;
+  /* background-color: gray; */
+  
+}
+.name{
+    height: 33px;
+    border-radius: 12px;
+    cursor: pointer;
+    /* background-color: yellow; */
+}
+.new img {
+  margin-top: -38vh;
+  height: 48vh;
+  width: 63vh;
+}
+.card-item img {
+  /* margin-left: -21vh;
+    margin-top: 8vh;
+    height: 169px; */
+  /* margin-top: -38vh;
+    height: 48vh;
+    width: 63vh; */
+    /* border-radius: 12vw; */
+  margin-top: 7vh;
+  height: 48vh;
+  width: 77vh;
+  margin-left: -93px;
+  padding: 65px;
+}
+/* .card-item img{
+    padding: 0vh;
+    margin: 29vh;
+    width: 92vh;
+    height:39vh;
+    margin-left: -1vh;
+} */
+/* .name:hover{
+  /* cursor: auto; */
+ 
+   /* background-color: yellow; */
+   /* border-radius: 120vw; */
+   
+/* }} */
+.card-item{
+    margin-top: -100vh;
+    margin-left: 50vh;
+    height: 12vh;
+    width: 12vw;
+    /* margin: -1 */
+}
+.name{
+    /* margin: 15vh; */
+    margin-left: 511px;
+    margin-top: -100vh;
+    padding-left: 10vh;
+    
+}
+.name:hover{
+  background-color: yellow;
+
+}
+.card-item{
+  margin: 13px;
+  margin-top: -512px;
+  margin-left: 240px;
+  height: 12vh;
+}
+.card-item{
+  height: -123vh;
+}
+.home{
+  /* width: 12px; */
+  /* border-radius: ; */
+  /* margin: 1vh; */
+
+}
+.welcome h2{
+  /* color: black; */
+  /* background-color:yellow; */
+  margin-left: 70vh;
+  margin-top: -66vh;
+  width: 70vh;
+  height: 10vh;
+  /* text-align: center; */
+}
+.kapil1 h1{
+  margin-left: 550px;
+  /* background-color: blue; */
+}
+.kapil1 a{
+  color: black;
+  cursor:pointer ;
+  text-decoration: none;
+}
+.box h1{
+  color: yellow;
+  margin: 120px;
+  background-color: black;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  animation: kAnimate 3s ; 
+   /*thise is a time of animation: ;  */
+  animation-delay: 1s;
+  /* thise is set of time delay */
+  animation-iteration-count: infinite;
+  /* thise set the infinite times */
+  animation-direction: alternate-reverse;
+  /* thise is also non as diresctions of animation */
+  animation-timing-function:ease-in-out ;
+}
+@keyframes kAnimate{
+  /*thise is a main of animations; */
+  from{
+    width: 300px;
+  }
+  to{
+    width: 600px;
+  }
+}

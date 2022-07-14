@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 85vh;
+    /* width: 12px; */
+    
+}
+.logo{
+    background-color: red
+}
+nav ul{
+    width: 100px;
+    border-radius: 9px;
+    text-transform: uppercase;
+    
+    height: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:yellow;
+}
+ul:hover{
+    background-color:burlywood;
+}
+nav ul li a{
+    text-decoration: none;
+} 
+    .search{
+  display: flex;
+    
+    
+}
+.container{
+    background-color: yellow;
+}
+
+footer{
+    /* width: 120px; */
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    justify-content:center;
+    display: flex;
+    
+}
